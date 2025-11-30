@@ -20,7 +20,7 @@ My focus is on building dashboards that get used, automating repetitive tasks to
 When I'm not working with data, I enjoy cooking, hanging out with friends, and hiking. I love that "aha!" moment when data reveals something new and useful or when I finally understand a concept new to me.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 Check Out My Full Portfolio Website](https://TechSisAda.github.io/)
+### [🏆 Check Out My Full Portfolio Website](https://github.com/techsisada)
       
 ## 🔭 What I'm Currently Working On 
 
