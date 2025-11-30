@@ -3,7 +3,7 @@
 <div align="center">
   <!--  You can customize the typing text in the "lines=" section of the URL below -->
   <!--  For an ampersand (&), use &amp; (e.g., Analytics+%26+Optimization) -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Analyst+%7C+Business+Intelligence;Turning+Data+into+Actionable+Insights;[Your+Specialty+Here];[Your+Experience+or+Tagline]" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Analyst+%7C+Business+Intelligence;Turning+Data+into+Actionable+Insights;[Need+the+numbers+to+make+sense?+ Contact+Me]" alt="Typing SVG" />
 </div>
 
 <!-- 🔗 Update these links with your own social media and contact information -->
@@ -24,14 +24,14 @@ When I'm not working with data, I enjoy cooking, hanging out with friends, and h
       
 ## 🔭 What I'm Currently Working On 
 
-- **Solving an SQL Murder Mystery:** [I get to act as a forensic data analyst for the police dept, and use SQL complex queries to solve the fictional murder.]
-- **Agricultural Farming Insights:** [Created a detailed dashboard showing the Commissioner of Agriculture what crops are to be invested in according to the statistical data.]
-- **Social Media Manager:** [Creating content strategies for clients who are looking to improve and push their online presence either through organic growth or paid advertising.]
+- **Solving an SQL Murder Mystery:** I get to act as a forensic data analyst for the police dept, and use SQL complex queries to solve the fictional murder.
+- **Agricultural Farming Insights:** Created a detailed dashboard showing the Commissioner of Agriculture what crops are to be invested in according to the statistical data.
+- **Social Media Manager:** Creating content strategies for clients who are looking to improve and push their online presence either through organic growth or paid advertising.
 
 ## 🌱 Currently Learning 
 
-- [Advanced machine learning techniques with Python to create more efficient AI models.]
-- [Diving deeper into SQL with hands-on projects.]
+- Advanced machine learning techniques with Python to create more efficient AI models.
+- Diving deeper into SQL with hands-on projects.
 
 ## 🛠️ Technical Skillset
 
